@@ -293,6 +293,10 @@ This layer is optimized for reporting, dashboard development, and analytical que
 
 ---
 
+<p align="center">
+  <img src="StarSchema.png" alt="Star Schema" width="100%">
+</p>
+
 ## 🕒 SCD Type 2 Implementation
 
 A **Slowly Changing Dimension Type 2** process was implemented for the `user_id` table using historical source data.
